@@ -8,7 +8,7 @@
 ## How Install
 
 - Download Virus On Your Device.
-- RAT Right Click OpenFiles = Enjoy
+- RAT Right Click Run File Select Virus = Enjoy.
 - Join Discord https://discord.gg/wQyzgMDgJB
 
 ## Warning
